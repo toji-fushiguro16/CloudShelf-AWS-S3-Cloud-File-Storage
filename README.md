@@ -1,4 +1,3 @@
-> **Project index:** This repository includes [all current cloud projects](PROJECTS.md). The second project is the [Serverless URL Shortener](projects/02-serverless-url-shortener/README.md).
 # CloudShelf — Cloud File Storage Portal
 
 A cloud computing mini project built with Flask and Amazon S3. Upload, browse, download and delete files from a single dashboard. The app uses Amazon S3 when `S3_BUCKET` is configured and switches to local demo storage when it is blank.
@@ -74,4 +73,3 @@ This is a learning project, not a production file service. It does not include u
 - IAM least privilege and role based cloud credentials.
 - Containerization and managed container deployment.
 - Health checks, environment based configuration, and local cloud service fallback.
-
